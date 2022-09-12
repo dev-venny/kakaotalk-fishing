@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kakaotalk-fishing.tk/sitemap.xml
